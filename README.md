@@ -21,7 +21,7 @@ To run the application, you'll need to start both the backend and the frontend s
    ```bash
    cd client
    npm install
-   npm start
+   npm run dev
    ```
    
 ### Environment Variables
